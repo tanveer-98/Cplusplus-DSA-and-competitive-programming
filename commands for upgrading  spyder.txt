@@ -1,0 +1,8 @@
+#if getting pip error try updating the pip  using the two lines below
+
+-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+-python get-pip.py
+
+#for upgrading existing tensorflow
+pip install --upgrade tensorflow --user
+#replacewith theano,keras.

@@ -1,0 +1,97 @@
+pip install --upgrade spyder
+pip install spyder
+pip install beautifulsoup4
+pip install mpi4py
+pip install --user --upgrade pip //this is used for higher permission granted
+
+
+
+conda install -c conda-forge ffmpeg 
+conda install -c anaconda freetype    
+conda install -c menpo imageio     
+conda install -c anaconda libtiff     
+conda install -c conda-forge olefile    
+conda install -c anaconda pillow    
+conda install -c peterjc123 vc    
+conda install -c anaconda alabaster     
+conda install -c anaconda astroid     
+conda install -c patrickfuller openbabel     
+conda install -c anaconda babel     
+conda install -c conda-forge bleach     
+conda install -c anaconda certifi     
+conda install -c anaconda cffi     
+conda install -c anaconda chardet     
+conda install -c anaconda colorama     
+conda install -c anaconda decorator     
+conda install -c anaconda docutils     
+conda install -c conda-forge entrypoints     
+conda install -c anaconda html5lib     
+conda install -c conda-forge icu     
+conda install -c anaconda imagesize    
+conda install -c anaconda ipykernel     
+conda install -c anaconda ipython     
+conda install -c anaconda ipython_genutils     
+conda install -c anaconda isort     
+conda install -c conda-forge jedi     
+conda install -c anaconda jinja2     
+conda install -c slobodan image     
+conda install -c anaconda scikit-image     
+conda install -c anaconda jpeg     
+conda install -c conda-forge jsonschema     
+conda install -c conda-forge jupyter_client     
+conda install -c conda-forge jupyter_core     
+conda install -c anaconda lazy-object-proxy     
+conda install -c anaconda libpng     
+conda install -c conda-forge markupsafe     
+conda install -c conda-forge mistune     
+conda install -c anaconda mkl     
+conda install -c anaconda nbconvert     
+conda install -c anaconda nbformat     
+conda install -c anaconda numpy     
+conda install -c anaconda numpydoc     
+conda install -c anaconda openssl     
+conda install -c intel pandocfilters     
+conda install -c intel path.py     
+conda install -c anaconda pickleshare     
+conda install -c anaconda pip     
+conda install -c anaconda prompt_toolkit     
+conda install -c anaconda psutil     
+conda install -c conda-forge pycodestyle     
+conda install -c conda-forge pycparser     
+conda install -c anaconda pyflakes     
+conda install -c anaconda pygments     
+conda install -c anaconda pylint     
+conda install -c anaconda pyqt     
+conda install -c anaconda python     
+conda install -c conda-forge python-dateutil     
+conda install -c anaconda pytz     
+conda install -c anaconda pyzmq     
+conda install -c anaconda qt     
+conda install -c anaconda qtawesome     
+conda install -c anaconda qtconsole     
+conda install -c anaconda qtpy     
+conda install -c conda-forge requests     
+conda install -c anaconda rope     
+conda install -c anaconda setuptools     
+conda install -c conda-forge simplegeneric     
+conda install -c anaconda singledispatch     
+conda install -c anaconda sip     
+conda install -c conda-forge six     
+conda install -c anaconda snowballstemmer     
+conda install -c anaconda sphinx     
+conda install -c anaconda sphinxcontrib     
+conda install -c conda-forge sphinxcontrib-websupport     
+conda install -c anaconda spyder     
+conda install -c anaconda testpath     
+conda install -c anaconda tornado     
+conda install -c intel traitlets     
+conda install -c intel vs2015_runtime     
+conda install -c conda-forge wcwidth     
+conda install -c anaconda wheel     
+conda install -c anaconda win_unicode_console     
+conda install -c conda-forge wincertstore     
+conda install -c conda-forge wrapt     
+conda install -c anaconda zlib     
+conda install -c menpo opencv3     
+conda install pytorch torchvision cudatoolkit=10.2 -c pytorch     
+conda install -c conda-forge opencv

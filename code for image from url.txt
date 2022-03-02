@@ -1,0 +1,8 @@
+import cv2 as cv
+import urllib
+import urllib.request
+from PIL import Image
+import numpy as np
+img=Image.open(urllib.request.urlopen('https://www.extremetech.com/wp-content/uploads/2019/12/SONATA-hero-option1-764A5360-edit-768x425.jpg'))
+img=np.array(img)
+img = cv.resize(img, dsize=(256, 256), interpolation=cv2.INTER_CUBIC)

@@ -1,0 +1,3 @@
+https://www.hackerearth.com/challenges/competitive/february-circuits-20/algorithm/ram-and-shyam-buy-crackers-de722684/
+//engxor march long
+https://discuss.codechef.com/t/tle-in-engxor/56794
